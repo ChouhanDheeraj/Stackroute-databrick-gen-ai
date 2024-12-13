@@ -1,0 +1,7 @@
+Build a chatbot (infinite while loop with an exit command) which can do the following:
+Classify input prompt as a positive or negative sentiment
+Extract all Named Entities from the prompt
+Classify if the prompt is requesting text information or image or translation
+Appropriately return image or text as response
+If the request if for an image, the bot should return at least 3 captions along with the image
+Translate from English to any other language of your choice
